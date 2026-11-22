@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Local — On-Device Scam Shield",
+  "description": "Privacy-first, offline-capable on-device AI scam detection for messages, phishing links, and impersonation calls.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}

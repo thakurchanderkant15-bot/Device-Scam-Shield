@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Aegis Local — On-Device Scam Shield",
+  "short_name": "Aegis Local",
+  "description": "Offline-capable, zero-egress on-device AI scam detection for SMS, phishing URLs, and impersonation calls.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0F172A",
+  "background_color": "#F8FAFC",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
